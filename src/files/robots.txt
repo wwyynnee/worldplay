@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: https://worldplay.tk
+Sitemap: https://worldplay/src/files/sitemap.xml

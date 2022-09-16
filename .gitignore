@@ -1,0 +1,4 @@
+node_modules/
+apache2/
+.replit
+replit.nix
