@@ -12,7 +12,7 @@
     <div class="wrapper">
       <div class="contacts">
         <div class="contacts__form">
-          <form action="https://feedback.worldplay.tk/submit">
+          <form action="https://feedback.worldplay.tk/submit" method="get">
             <input name="subject" size="30" type="text" placeholder="Тема" required />
             <input name="name" type="text" placeholder="Ваше имя" required />
             <input name="email" type="email" placeholder="Ваша почта" required />
