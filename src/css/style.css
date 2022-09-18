@@ -289,10 +289,13 @@ main {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: calc(100vh - 3rem);
+  height: 100%;
   width: 100%;
   text-align: center;
   color: white;
+}
+.main__img {
+  height: calc(100vh - 3rem);
 }
 .main__content {
   position: relative;
