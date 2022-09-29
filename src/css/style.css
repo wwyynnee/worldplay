@@ -854,6 +854,16 @@ details p, details ul {
 
 /* 2560px */
 @media screen and (min-width: 93.80em) {
+  .main__content h1 {
+    font-size: 3.25rem;
+  }
+  .main__content h2 {
+    font-size: 2.25rem;
+  }
+  .main button {
+    font-size: 1.5rem;
+    padding: 35px 60px;
+  }
   .nav__container {
     padding: 1rem;
   }
@@ -907,6 +917,16 @@ details p, details ul {
 }
 /* 1920px */
 @media screen and (min-width: 93.80em) and (max-width: 120em) {
+  .main__content h1 {
+    font-size: 3rem;
+  }
+  .main__content h2 {
+    font-size: 2rem;
+  }
+  .main button {
+    font-size: 1.25rem;
+    padding: 25px 50px;
+  }
   .play__iframe {
     width: calc(75vw - 2rem);
   }
@@ -920,11 +940,8 @@ details p, details ul {
   .play__text {
     font-size: 1.5rem;
   }
-  .io-game {
-    margin: 2rem auto;
-  }
   .io-game, .game__image, .game__image img {
-    height: 12.5rem;
+    height: 13.5rem;
   }
   .game__content p {
     font-size: 1.25rem;
